@@ -1,4 +1,4 @@
-# LUCE Technical Prototype & LuceVM
+# LUCE Technical Prototype & Web Monetization
 
 The technical prototype of LUCE is accessible via LuceVM.
 
